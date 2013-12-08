@@ -1,8 +1,5 @@
 /**
  * Projet d'algorithmique PARAPENTE
- * --------------------------------
- * 
- * Description du projet...
  * 
  * Classe permettant de memoriser et traiter les coordonnees d'un vol
  * 
