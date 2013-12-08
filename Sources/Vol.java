@@ -22,7 +22,7 @@ public class Vol
 	/**
 	 * Cette methode renvoie la duree du vol.
 	 * Une unite de temps correspond au temps ecoule entre 2 mesures de position du gps.
-	 * @return la duree
+	 * @return    la duree en unites de temps
 	 */
 	public int duree() {
 		return this.tableCoordonnees.length-1;
