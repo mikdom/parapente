@@ -1,5 +1,6 @@
 /**
  * Projet d'algorithmique PARAPENTE
+ * --------------------------------
  * 
  * Description du projet...
  * 
