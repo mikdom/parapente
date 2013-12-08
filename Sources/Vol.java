@@ -49,11 +49,11 @@ public class Vol
 	}
    
    /**
-	 * Cette methode calcule la distance la plus �loign� par rapport au point d'origine. Cette distance sera
-	 * obtenue en comparant tout les segements des coordon�es par rapport au point de d�part et 
+	 * Cette methode calcule la distance la plus eloigne par rapport au point d'origine. Cette distance sera
+	 * obtenue en comparant tout les segements des coordonnees par rapport au point de depart et 
 	 * d'enregister le segment le plus grand .
      *
-	 * @return la distance la plus longue par rapport au point de d�part
+	 * @return la distance la plus longue par rapport au point de depart
 	 */
    public double distanceMax()
    {
